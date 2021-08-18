@@ -4,9 +4,7 @@
  * Curently I am learning python and google go.
  * My goal is to learn google go.
 ### Contact Me
-(http://i.imgur.com/tXSoThF.png)
-(https://twitter.com/KKaprans)
-
+<a href='https://twitter.com/KKaprans'><img src="http://i.imgur.com/tXSoThF.png "></a>
 
 ###Top skills✅
 
