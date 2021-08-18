@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**karolxxx/karolxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm back end developer ✨
+ * Curently I am learning python and google go.
+ * My goal is to learn google go.
+### Contact Me
+![GitHub Logo](http://i.imgur.com/tXSoThF.png)
+Format: ![Alt Text](https://twitter.com/KKaprans)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Top skills✅
+
+* python
+* html
+* css
+
+### I’m looking to collaborate on any project
+
+contact me : karolx@protonmail.com
+
