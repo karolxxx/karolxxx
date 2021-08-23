@@ -4,14 +4,11 @@
 color:#ff9999
 font-family:'Monospace', 'Lucida Console'
 }
+</style>
  </Head>
 
 <body>
  <h1>Hi there 👋</h1>
-
-
-
-</style>
 
 <h2>I'm back end developer ✨</h2>
 <ul>
