@@ -1,6 +1,6 @@
 
 <body>
- <h1 style='font-size:3em'>Hi there 👋</h1>
+ <h1 style='font-size:3em'><b>Hi there</b> 👋</h1>
 
 <h2 style='font-size:2em;font-family:'Monospace', 'Lucida Console''>I'm back end developer ✨</h2>
 <ul style='font-size:20px'>
