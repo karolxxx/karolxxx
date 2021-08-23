@@ -5,7 +5,7 @@
 <h2 style='font-size:2em;font-family:'Monospace', 'Lucida Console''>I'm back end developer ✨</h2>
 <ul style='font-size:20px'>
  <li style='font-size:2em;'> Curently I am learning python and google go.</li>
- <li style='font-size:2em'> My goal is to learn google go(golang).</li>
+ <li style='font-size:2em'> My goal is to learn google go (golang).</li>
 </ul>
 <h2 style='font-size:2emfont-family:'Monospace', 'Lucida Console''> Contact Me<h2>
 <a href='https://twitter.com/KKaprans'><img src="http://i.imgur.com/tXSoThF.png" width = 75 height = 50></a>
