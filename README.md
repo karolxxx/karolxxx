@@ -3,7 +3,7 @@
 <body>
  <h1>Hi there 👋</h1>
 
-@@<h2 style='font-size:2em; color:#ff9999; font-family:'Monospace', 'Lucida Console''>I'm back end developer ✨</h2>@@
+<h2 style='font-size:2em; color:grey; font-family:'Monospace', 'Lucida Console''>I'm back end developer ✨</h2>
 <ul>
  <li style='font-size:2em'> Curently I am learning python and google go.</li>
  <li style='font-size:2em'> My goal is to learn google go.</li>
