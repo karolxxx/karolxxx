@@ -1,6 +1,6 @@
 
 <body>
- <h1 style='color:red'>Hi there 👋</h1>
+ <h1 style='color:Tomato;'>Hi there 👋</h1>
 
 <h2 style='font-size:2em; color:grey; font-family:'Monospace', 'Lucida Console''>I'm back end developer ✨</h2>
 <ul>
