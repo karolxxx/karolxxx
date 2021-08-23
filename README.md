@@ -1,6 +1,4 @@
-<Head>
-</style>
- </Head>
+
 
 <body>
  <h1>Hi there 👋</h1>
