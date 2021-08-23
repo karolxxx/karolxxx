@@ -1,10 +1,15 @@
-<h1>Hi there 👋</h1>
-
-<style>
+<Head>
+ <style>
 .h2{
 color:#ff9999
 font-family:'Monospace', 'Lucida Console'
 }
+ </Head>
+
+<body>
+ <h1>Hi there 👋</h1>
+
+
 
 </style>
 
@@ -27,4 +32,4 @@ font-family:'Monospace', 'Lucida Console'
 <h1>I’m looking to collaborate on any project</h1>
 
 <p style='font-size:2em'>contact me : karolxxx@protonmail.com<p>
-
+ </body>
