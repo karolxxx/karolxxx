@@ -8,7 +8,7 @@
  <li style='font-size:2em'> My goal is to learn google go (golang).</li>
 </ul>
 <h2 style='font-size:2emfont-family:'Monospace', 'Lucida Console''> Contact Me<h2>
-<a href='https://twitter.com/KKaprans'><img src="http://i.imgur.com/tXSoThF.png" ></a>
+<a href='https://twitter.com/KKaprans'><img src="http://i.imgur.com/tXSoThF.png" witdh= 100 height = 100 ></a>
  <a href='https://www.reddit.com/user/skinypig1'><img src="https://image.flaticon.com/icons/png/512/1384/1384019.png"></a>
 
 <h2 style='font-size:2emfont-family:'Monospace', 'Lucida Console''> Top skills✅</h2>
