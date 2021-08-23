@@ -10,7 +10,7 @@
 <h2> Contact Me<h2>
 <a href='https://twitter.com/KKaprans'><img src="http://i.imgur.com/tXSoThF.png "></a>
 
-<h2> Top skills✅</h2>
+<h2 style='font-size:2em'> Top skills✅</h2>
 
 <ul>
  <li style='font-size:2em'>python</li>
@@ -18,7 +18,7 @@
  <li style='font-size:2em'>css</li>
 </ul>
 
-<h1>I’m looking to collaborate on any project</h1>
+<h1 style='font-size:2em'>I’m looking to collaborate on any project</h1>
 
 <p style='font-size:2em'>contact me : karolxxx@protonmail.com<p>
  </body>
