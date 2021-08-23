@@ -1,4 +1,4 @@
-
+![#ff9999](https://via.placeholder.com/15/f03c15/000000?text=+) `#ff9999`
 
 <body>
  <h1>Hi there 👋</h1>
