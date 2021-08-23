@@ -1,18 +1,30 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
-### I'm back end developer ✨
- * Curently I am learning python and google go.
- * My goal is to learn google go.
-### Contact Me
+<style>
+.h2{
+color:#ff9999
+font-family:'Monospace', 'Lucida Console'
+}
+
+</style>
+
+<h2>I'm back end developer ✨</h2>
+<ul>
+ <li style='font-size:2em'> Curently I am learning python and google go.</li>
+ <li style='font-size:2em'> My goal is to learn google go.</li>
+</ul>
+<h2> Contact Me<h2>
 <a href='https://twitter.com/KKaprans'><img src="http://i.imgur.com/tXSoThF.png "></a>
 
-### Top skills✅
+<h2> Top skills✅</h2>
 
-* python
-* html
-* css
+<ul>
+ <li style='font-size:2em'>python</li>
+ <li style='font-size:2em'>html</li>
+ <li style='font-size:2em'>css</li>
+</ul>
 
-### I’m looking to collaborate on any project
+<h1>I’m looking to collaborate on any project</h1>
 
-contact me : karolxxx@protonmail.com
+<p style='font-size:2em'>contact me : karolxxx@protonmail.com<p>
 
