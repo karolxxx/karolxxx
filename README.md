@@ -3,7 +3,7 @@
  <h1 style='font-size:3em'>Hi there 👋</h1>
 
 <h2 style='font-size:2em;font-family:'Monospace', 'Lucida Console''>I'm back end developer ✨</h2>
-<ul>
+<ul style='font-size:20px'>
  <li style='font-size:2em;'> Curently I am learning python and google go.</li>
  <li style='font-size:2em'> My goal is to learn google go.</li>
 </ul>
@@ -12,7 +12,7 @@
 
 <h2 style='font-size:2emfont-family:'Monospace', 'Lucida Console''> Top skills✅</h2>
 
-<ul>
+<ul style='font-size:20px'>
  <li style='font-size:2em'>python</li>
  <li style='font-size:2em'>html</li>
  <li style='font-size:2em'>css</li>
@@ -20,5 +20,5 @@
 
 <h1 style='font-size:2emfont-family:'Monospace', 'Lucida Console''>I’m looking to collaborate on any project</h1>
 
-<p style='font-size:2em'>contact me : karolxxx@protonmail.com<p>
+<span style='font-size:20px' >contact me : karolxxx@protonmail.com<span>
  </body>
